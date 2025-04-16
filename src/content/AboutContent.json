@@ -3,14 +3,14 @@
   "text": "Мы обеспечим быструю и точную доставку с возможностью отслеживания в реальном времени. Выберите подходящее время — остальное мы сделаем сами.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
-      "icon": "notes.svg"
+      "title": "Быстрая доставка",
+      "content": "Ваш заказ приедет точно в срок — мы ценим ваше время и заботимся о вашей удобстве.",
+      "icon": "delivery-truck.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
-      "icon": "notes.svg"
+      "title": "Отслеживание в реальном времени",
+      "content": "Следите за своим заказом на карте — от склада до вашей двери.",
+      "icon": "map-tracking.svg"
     }
   ]
 }
